@@ -1,8 +1,10 @@
 # SFU Noteify
 
-**Group 9:** Lily Doo (ldoo) - Melissa Wang (mmw11) - Wei Wang (wwa53) - Xue Han (hanxueh)
+**Contributor:** Lily Doo - Melissa Wang - Wei Wang - Xue (Shelly) Han
 
 Noteify is a web application for Simon Fraser University students of all faculties where we can easily share course notes online. This is beneficial in situations where students want to help their classmates whom have difficulty taking good notes, cannot attend classes for various reasons such as medical conditions and emergencies, or just want to supplement their own study materials.
+
+NOTE: This is a course based project. Website is only deployed locally. For info, please refer to project poster. For demo, please contact shellshell456@gmail.com. Thank you!
 
 ---
 ---
