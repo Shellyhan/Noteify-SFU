@@ -7,7 +7,6 @@ Noteify is a web application for Simon Fraser University students of all faculti
 NOTE: This is a course based project. Website is only deployed locally. For info, please refer to project poster. For demo, please contact shellshell456@gmail.com. Thank you!
 
 ---
----
 
 ## 1. SETUP
 
